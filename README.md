@@ -740,3 +740,4 @@ Thanks for playing ;)
 [Full Repo](https://github.com/jacobedawson/connect-metamask-react-dapp)
 
 Follow me on Twitter: https://twitter.com/jacobedawson
+# metamask-react-dapp
